@@ -152,7 +152,7 @@ body {
   <a href="https://www.smgsblarney.ie/">SMGS Blarney</a>
   <a href="https://www.w3schools.com/">W3 Schools</a>
   <a href="https://phpproject118372296.herokuapp.com/">Heroku</a>
-  <a href="https://github.com/DM-118372296/118372296">GitHub</a>
+  <a href="https://github.com/DM-118372296/Project118372296">GitHub</a>
     
   
 </div>
@@ -197,7 +197,7 @@ function closeNav() {
    <div class="column">
         <div class="container">
             <a href="Interests.html">
-                <img src="8IN.pngN.PNg" style="width:550px; height: 300px;border: 4px solid black;">
+                <img src="8IN.png" style="width:550px; height: 300px;border: 4px solid black;">
   <div class="centered" style="font-size:75px; color:#9643af">Interests</div></a>
       </div>
         <div class="container">
