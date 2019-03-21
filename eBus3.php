@@ -45,7 +45,7 @@ h1{
   <a href="ConsultingService.html">Creamfields Consultancy</a>
   <a href="index.html">Home Page</a>
 </div>
-        <a href ="Ebus2.php">Back</a>
+        <a href ="eBus2.php">Back</a>
     <center>
         <?php
         session_start();

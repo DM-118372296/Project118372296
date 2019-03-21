@@ -54,7 +54,7 @@ h1{
                 <a href ="Ebusiness1.php">Back</a>
                 <div class ="form">
                    
-                    <form name =" Details" method="post" action="Ebus3.php">
+                    <form name =" Details" method="post" action="eBus3.php">
                         <center>
                             <table cellspacing="10" style='padding-top:40px'>
                                 <tr>

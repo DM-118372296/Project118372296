@@ -207,7 +207,7 @@ function closeNav() {
       </div>
         <div class="container">
             <a href="Sports.html">
-  <img src="8IS.jpg" style="width:550px; height: 300px;border: 4px solid black;">
+                <img src="8IS.jpg" style="width:550px; height: 300px;border: 4px solid black;">
   <div class="centered" style="font-size:75px; color:#9643af">Sports</div></a>
       </div>
   

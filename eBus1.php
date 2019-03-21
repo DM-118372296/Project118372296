@@ -61,7 +61,7 @@ h1{
   <a href="index.html">Home Page</a>
 </div>
         <div class="form">
-            <form name="intCalc" method="post" action="Ebus2.php">
+            <form name="intCalc" method="post" action="eBus2.php">
         <h1>Shop Calculator</h1>   
         <hr/>
         <center>
