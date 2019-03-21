@@ -178,17 +178,17 @@ function closeNav() {
   <div class="row"> 
   <div class="column">
   <div class="container">
-      <a href="cv.html">
+      <a href="CV.html">
   <img src="9CV.jpg" style="width:550px; height: 300px; border:4px solid black;">
   <div class="centered" style="font-size:75px; color:#9643af">CV</div></a>
       </div>
        <div class="container">
-           <a href=ebus1.php>
+           <a href=eBus1.php>
   <img src="9SC.webp" style="width:550px; height: 300px;border: 4px solid black;">
   <div class="centered" style="font-size:75px; color:#9643af">eBusiness</div></a>
       </div>
        <div class="container">
-           <a href="consultingservice.html">
+           <a href="ConsultingService.html">
   <img src="9CS.jpg" style="width:550px; height: 300px;border: 4px solid black;">
   <div class="centered" style="font-size:75px; color:#9643af">Consultancy Service</div></a>
       </div>
@@ -196,17 +196,17 @@ function closeNav() {
 
    <div class="column">
         <div class="container">
-            <a href="interests.html">
+            <a href="Interests.html">
   <img src="8iN.PNg" style="width:550px; height: 300px;border: 4px solid black;">
   <div class="centered" style="font-size:75px; color:#9643af">Interests</div></a>
       </div>
         <div class="container">
-            <a href="travel.html">
+            <a href="Travel.html">
   <img src="8TV.jpg" style="width:550px; height: 300px;border: 4px solid black;">
   <div class="centered" style="font-size:75px; color:#9643af">Travel</div></a>
       </div>
         <div class="container">
-            <a href="sports.html">
+            <a href="Sports.html">
   <img src="8is.jpg" style="width:550px; height: 300px;border: 4px solid black;">
   <div class="centered" style="font-size:75px; color:#9643af">Sports</div></a>
       </div>
